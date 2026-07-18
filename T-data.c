@@ -39,7 +39,7 @@ printf("Number: %s\n", people[x].number);
 return 0;
 }
 }
-printf("Name not founde\n");
+printf("Name not founded\n");
 return 1;
 
 }
